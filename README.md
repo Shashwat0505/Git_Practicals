@@ -1,6 +1,8 @@
 __Git Practicals__
 ***
 
--This is master branch.
+-This is Rebase_1 branch.
 
--Master branch consist of [index.html]() file.
+-Rebase_1 branch consist of [Rebase_1.txt]() file.
+
+-Applied Rebase command on Rebase_2 branch.
