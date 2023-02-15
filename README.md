@@ -1,6 +1,6 @@
 __Git Practicals__
 ***
 
--This is master branch.
+-This is Cherry_Pick2 branch.
 
--Master branch consist of [index.html]() file.
+-Cherry_Pick2  branch consist of [Cherry_Pick2 .txt]() file.
