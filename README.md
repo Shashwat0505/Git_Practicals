@@ -1,6 +1,7 @@
 __Git Practicals__
 ***
 
--This is master branch.
+-This is Merge_2 branch.
 
--Master branch consist of [index.html]() file.
+-Merge_2 branch consist of [Test2.txt]() file.
+-Merge_1 branch merged into Merge_2 branch.
