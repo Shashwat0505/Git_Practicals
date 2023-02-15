@@ -1,6 +1,6 @@
 __Git Practicals__
 ***
 
--This is master branch.
+-This is Change_Commit branch.
 
--Master branch consist of [index.html]() file.
+-Change_Commit branch consist of [Change_Commit.txt]() file.
